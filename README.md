@@ -30,13 +30,13 @@ Original author is [Magnus Erik Hvass Pedersen](http://www.hvass-labs.org)
 
 7. Inception Model ([Notebook](https://github.com/ishuca/hvass-lab/blob/master/07_Inception_Model.ipynb))
 
-8. Transfer Learning ([Notebook](https://github.com/Hvass-Labs/TensorFlow-Tutorials/blob/master/08_Transfer_Learning.ipynb)) [not completed]
+8. Transfer Learning ([Notebook](https://github.com/ishuca/hvass-lab/blob/master/08_Transfer_Learning.ipynb)) 
 
-9. Video Data ([Notebook](https://github.com/Hvass-Labs/TensorFlow-Tutorials/blob/master/09_Video_Data.ipynb)) [not completed]
+9. Video Data ([Notebook](https://github.com/ishuca/hvass-lab/blob/master/09_Video_Data.ipynb))
 
-10. Not available yet. Please [support this issue](https://github.com/tensorflow/tensorflow/issues/5036) on GitHub so we can get it done! [not completed]
+10. Not available yet. Please [support this issue](https://github.com/tensorflow/tensorflow/issues/5036) on GitHub so we can get it done!
 
-11. Adversarial Examples ([Notebook](https://github.com/Hvass-Labs/TensorFlow-Tutorials/blob/master/11_Adversarial_Examples.ipynb)) [not completed]
+11. Adversarial Examples ([Notebook](https://github.com/ishuca/hvass-lab/blob/master/11_Adversarial_Examples.ipynb))
 
 12. Adversarial Noise for MNIST ([Notebook](https://github.com/Hvass-Labs/TensorFlow-Tutorials/blob/master/12_Adversarial_Noise_MNIST.ipynb)) [not completed]
 
@@ -45,6 +45,8 @@ Original author is [Magnus Erik Hvass Pedersen](http://www.hvass-labs.org)
 14. DeepDream ([Notebook](https://github.com/Hvass-Labs/TensorFlow-Tutorials/blob/master/14_DeepDream.ipynb)) [not completed]
 
 15. Style Transfer ([Notebook](https://github.com/Hvass-Labs/TensorFlow-Tutorials/blob/master/15_Style_Transfer.ipynb)) [not completed]
+
+16. Reinforcement Learning ([Notebook](https://github.com/Hvass-Labs/TensorFlow-Tutorials/blob/master/16_Reinforcement_Learning.ipynb)) [not completed]
 
 ## Videos
 
