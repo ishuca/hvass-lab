@@ -1,4 +1,4 @@
-﻿# hvass-lab
+﻿# hvass-labs
 https://github.com/Hvass-Labs/TensorFlow-Tutorials/ 에 나와있는 예제들의 발번역
 
 # TensorFlow Tutorials
@@ -38,13 +38,13 @@ Original author is [Magnus Erik Hvass Pedersen](http://www.hvass-labs.org)
 
 11. Adversarial Examples ([Notebook](https://github.com/ishuca/hvass-lab/blob/master/11_Adversarial_Examples.ipynb))
 
-12. Adversarial Noise for MNIST ([Notebook](https://github.com/Hvass-Labs/TensorFlow-Tutorials/blob/master/12_Adversarial_Noise_MNIST.ipynb)) [not completed]
+12. Adversarial Noise for MNIST ([Notebook](https://github.com/ishuca/hvass-lab/blob/master/12_Adversarial_Noise_MNIST.ipynb))
 
-13. Visual Analysis ([Notebook](https://github.com/Hvass-Labs/TensorFlow-Tutorials/blob/master/13_Visual_Analysis.ipynb)) [not completed]
+13. Visual Analysis ([Notebook](https://github.com/ishuca/hvass-lab/blob/master/13_Visual_Analysis.ipynb))
 
-14. DeepDream ([Notebook](https://github.com/Hvass-Labs/TensorFlow-Tutorials/blob/master/14_DeepDream.ipynb)) [not completed]
+14. DeepDream ([Notebook](https://github.com/ishuca/hvass-lab/blob/master/14_DeepDream.ipynb))
 
-15. Style Transfer ([Notebook](https://github.com/Hvass-Labs/TensorFlow-Tutorials/blob/master/15_Style_Transfer.ipynb)) [not completed]
+15. Style Transfer ([Notebook](https://github.com/ishuca/hvass-lab/blob/master/15_Style_Transfer.ipynb))
 
 16. Reinforcement Learning ([Notebook](https://github.com/Hvass-Labs/TensorFlow-Tutorials/blob/master/16_Reinforcement_Learning.ipynb)) [not completed]
 
